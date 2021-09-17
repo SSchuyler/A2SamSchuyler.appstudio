@@ -21,7 +21,7 @@ FL	between 32 and 50 degrees	wear your warmest coat, a warm hat, a scarf, and wa
 FL	between 50 and 70	wear a warm coat, hat and gloves. Maybe a scarf too.
 */
 
-/*
+
 let name = prompt('What is your name?')
 let state = prompt('Do you live in NE or FL?')
 let temp = prompt('What is the temperature outside in Fahrenheit?')
@@ -43,4 +43,3 @@ else if (state == "FL" && temp <= 70){
 else{
   console.log('You typed something in wrong, try again')
 }
-*/
